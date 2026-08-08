@@ -1,6 +1,3 @@
-using JetBrains.Rider.Unity.Editor;
-using System;
-using Unity.IO.LowLevel.Unsafe;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
