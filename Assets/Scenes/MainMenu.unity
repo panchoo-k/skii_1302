@@ -512,7 +512,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 957576147}
   m_CullTransparentMesh: 1
---- !u!1 &1060174813
+--- !u!1 &1268317194
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -520,23 +520,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1060174815}
-  - component: {fileID: 1060174814}
+  - component: {fileID: 1268317196}
+  - component: {fileID: 1268317195}
   m_Layer: 0
-  m_Name: Skii
+  m_Name: Ski_Famille_-_Family_Ski_Holidays
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!212 &1060174814
+--- !u!212 &1268317195
 SpriteRenderer:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1060174813}
+  m_GameObject: {fileID: 1268317194}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -578,27 +578,27 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 4f87f852358a58449982b9b04943c926, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 93a05421c6ca94f489730ab3e4020f3f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 10, y: 6.67}
+  m_Size: {x: 12.8, y: 7.15}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!4 &1060174815
+--- !u!4 &1268317196
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1060174813}
+  m_GameObject: {fileID: 1268317194}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.67, z: 0}
-  m_LocalScale: {x: 2.0783, y: 2.0783, z: 2.0783}
+  m_LocalPosition: {x: 0.18, y: 0.93, z: 0}
+  m_LocalScale: {x: 1.6629143, y: 1.6629143, z: 1.6629143}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1429,6 +1429,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 1450566334}
   - {fileID: 464309521}
-  - {fileID: 1060174815}
   - {fileID: 1553075526}
   - {fileID: 1987088113}
+  - {fileID: 1268317196}
